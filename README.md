@@ -57,7 +57,8 @@ https://www.portlandmaine.gov/201/Budget-Financial-Documents
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
+Em Burnett
+Mel McGovern
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
