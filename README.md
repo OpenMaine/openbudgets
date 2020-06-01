@@ -7,10 +7,10 @@ This is a project to help people understand how budgets work in Portland, Maine.
 - [Contribute](#Contribute)
 - [Project Status](#Status)
 - [Users](#UserS)
-- [Problem] (#Problem)
-    - [Short idea] (##Idea) 
+- [Problem](#Problem)
+    - [Short idea](##Idea) 
 - [Sources](#sources)
-- [Retro] (#retro)
+- [Retro](#retro)
     - [Contributors ✨](#contributors-)
 
 <!-- /TOC -->
