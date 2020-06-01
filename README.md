@@ -1,6 +1,6 @@
 # Open Budgets (Name TBD)
 
-This is a project to help people understand how budgets work in Portland, Maine. Initial project idea can be found here: https://github.com/OpenMaine/project-ideas/issues/7 
+This is a project to help people understand how budgets work in Portland, Maine. Initial project idea can be found here:  
 
 <!-- TOC -->
 
