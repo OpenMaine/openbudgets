@@ -45,8 +45,9 @@ The City of Portland website and budget documents: https://www.portlandmaine.gov
 
 Budget Party from Open Austin: https://austinbudget.party, https://github.com/open-austin/budgetparty
 People Budget by Code for Miami: https://github.com/Code-for-Miami/peoplebudget
-http://arlingtonvisualbudget.org/
-https://github.com/goinvo/Visual-Town-Budget
+Arlington Visual Budget: http://arlingtonvisualbudget.org/
+Visual Town Budget: https://github.com/goinvo/Visual-Town-Budget
+Open Budget Oakland: http://openbudgetoakland.org/
 
 # Retro
 OpenMaine made a visual budget of Portland, Maine's budget in 2017, redeploying the Arlington Visual Budget Data
