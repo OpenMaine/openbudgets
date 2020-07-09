@@ -10,8 +10,9 @@ This is a project to help people understand how budgets work in Portland, Maine.
 - [Problem](#Problem)
     - [Short idea](##Idea) 
 - [Sources](#sources)
+- [Related Projects](#Related Projects)
 - [Retro](#retro)
-    - [Contributors ✨](#contributors-)
+    - [Contributors ✨](#contributors)
 
 <!-- /TOC -->
 
@@ -40,14 +41,15 @@ In less than 140 characters explain your idea?
 Help people understand budgets; how they work, key dates and terms. Provide transparency to the community about how and where money is spent. This is a wiki with basic terms and outlines of the budget process, not limited to writing. It can be adopted for a coding project, but the current design is to host on GitHub as a wiki and to create graphics. We take inspiration from the Maine Ballot site on its ability to understand Ballots.
 
 # Sources
-The City of Portland website and budget documents: https://www.portlandmaine.gov/201/Budget-Financial-Documents
+- The City of Portland website and budget documents: https://www.portlandmaine.gov/201/Budget-Financial-Documents
 
+# Related Projects
 
-Budget Party from Open Austin: https://austinbudget.party, https://github.com/open-austin/budgetparty
-People Budget by Code for Miami: https://github.com/Code-for-Miami/peoplebudget
-Arlington Visual Budget: http://arlingtonvisualbudget.org/
-Visual Town Budget: https://github.com/goinvo/Visual-Town-Budget
-Open Budget Oakland: http://openbudgetoakland.org/
+- Budget Party from Open Austin: https://austinbudget.party, https://github.com/open-austin/budgetparty
+- People Budget by Code for Miami: https://github.com/Code-for-Miami/peoplebudget
+- Arlington Visual Budget: http://arlingtonvisualbudget.org/
+- Visual Town Budget: https://github.com/goinvo/Visual-Town-Budget
+- Open Budget Oakland: http://openbudgetoakland.org/
 
 # Retro
 OpenMaine made a visual budget of Portland, Maine's budget in 2017, redeploying the Arlington Visual Budget Data
