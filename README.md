@@ -10,7 +10,7 @@ This is a project to help people understand how budgets work in Portland, Maine.
 - [Problem](#Problem)
     - [Short idea](##Idea) 
 - [Sources](#sources)
-- [Related Projects](#Related Projects)
+- [Related Projects](#Projects)
 - [Retro](#retro)
     - [Contributors ✨](#contributors)
 
@@ -43,7 +43,7 @@ Help people understand budgets; how they work, key dates and terms. Provide tran
 # Sources
 - The City of Portland website and budget documents: https://www.portlandmaine.gov/201/Budget-Financial-Documents
 
-# Related Projects
+# Projects
 
 - Budget Party from Open Austin: https://austinbudget.party, https://github.com/open-austin/budgetparty
 - People Budget by Code for Miami: https://github.com/Code-for-Miami/peoplebudget
